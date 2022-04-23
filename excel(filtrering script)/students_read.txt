@@ -1,0 +1,17 @@
+#struct of names: first_name middle_name last_name
+1. Diamela Rodriguez Lara
+2. Yanitza del Llano
+3. Yadinia Silegas Estrada
+4. Julio Ronald Valls Rivas
+5. Yoandris Rodriguez Lara
+6. Aliuska Salazar
+7. Leonardo Bridón
+8. Dailen Rojas Chang
+9. Keila Esther Llorente Mari
+10. Rosa Margarita Rodríguez Rengifo   
+11. Ana Elena Granado Hormigó  
+12. Luis Aguilera Pérez  
+13. Raquel Sánchez Simón
+14. Josefa Gata Alvarado
+15. Dayana Rodríguez Pila
+16. Melba Cruz Rodríguez
