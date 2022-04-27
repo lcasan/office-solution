@@ -1,2 +1,2 @@
 # projects.py
-My personla projects in python 
+My personal projects in python 
