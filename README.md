@@ -1,2 +1,2 @@
-# projects.py
-My personal projects in python 
+# Office solution
+Quick solution for office work
